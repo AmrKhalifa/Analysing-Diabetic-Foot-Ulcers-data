@@ -1,3 +1,3 @@
-# Statistical-Analysis-and-Visualization
+# Analysing-Diabetic-Foot-Ulcers-data
 
-Performing basic statistical analysis and visulaization on X dataset. 
+Performing statistical analysis and visulaization on diabetic foot ulcers on data taken from patients in Sudan, and we draw some inferences about the data.  
